@@ -1,0 +1,55 @@
+body {
+    background-color: #997950;
+    font-family: 'Courier New', Courier, monospace;
+    color: #351e10;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+    
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+    background: url(../image/logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 80px;
+    height: 80px;
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+.dutton1883{
+    background: url(../image/1883.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 200px;
+}
+.dutton1923{
+    background: url(../image/1923.webp) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 200px;
+}
+.duttonnow{
+    background: url(../image/now.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 200px;
+}
