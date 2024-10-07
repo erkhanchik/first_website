@@ -53,3 +53,19 @@ body {
     width: 400px;
     height: 200px;
 }
+.button_js{
+    text-align: center;
+}
+#mybutton {
+    border: none;
+    border-radius: 15px;
+    width: 150;
+    height: 50;
+    background-color: burlywood;
+    color: aliceblue;
+    font-weight: bold;
+}
+#demo img{
+    margin-top: 20px;
+    width: 25%;
+}
